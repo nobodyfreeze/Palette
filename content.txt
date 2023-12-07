@@ -3,7 +3,8 @@ Farbpalette
 
 Rot / red
 Grün / green
-Blau / blue
+Hellblau / light blue
+Dunkelblau / dark blue
 Gelb / yellow
 Magenta / magenta
 
