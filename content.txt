@@ -1,1 +1,9 @@
+Farbpalette
+
+
+Rot / Red
+Grün / Green
+Blau / Blue
+Gelb / Yellow
+Magenta / Magenta
 
