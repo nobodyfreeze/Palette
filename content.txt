@@ -1,10 +1,10 @@
 Farbpalette
 
 
-Rot / Red
-Grün / Green
-Blau / Blue
-Gelb / Yellow
-Magenta / Magenta
+Rot / red
+Grün / green
+Blau / blue
+Gelb / yellow
+Magenta / magenta
 
 Sind alle tolle Farben.
